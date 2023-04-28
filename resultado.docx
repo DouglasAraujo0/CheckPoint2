@@ -1,5 +1,7 @@
 Integrantes do Grupo:
 
+Guatavo Arguello Bertacci - rm551304
+
 Douglas Magalhães de Araujo - rm552008
 
 Luiz Fillipe Farias - rm99519
@@ -8,7 +10,221 @@ Rafaella Monique do Carmo Bastos - rm552425
 
 Igor Ribeiro Anccilotto - rm550415
 
+URL do repositorio https://opengraph.githubassets.com/36a410d186ca7c8ca2910f7bbf2e54c1d4090ca7c93f50ae190a4196a88b2d86/DouglasAraujo0/CheckPoint2
+
+Pagina Principal:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME</title>
+    <link rel="stylesheet" href="./css/principal.css">
+
+</head>
+<body>
+    <header>
+        <img src="./img/home.png" alt="Logo da página principal">
+        <nav>
+            <ul>
+              <li><a href="./index.html">Principal</a></li>
+              <li><a href="./pages/games.html">Games</a></li>
+              <li><a href="./pages/mobile.html">Mobile</a></li>
+              <li><a href="./pages/tecnologia.html">Tecnologia</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+          <article>
+            <h2>GAMES</h2>
+            <figure>
+              <img src="./img/games.jpg" alt="Imagem relacionada a Games">
+              <figcaption>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, alias.</figcaption>
+            </figure>
+          </article>
+          <article>
+            <h2>MOBILE</h2>
+            <figure>
+              <img src="./img/mobile.png" alt="Imagem relacionada a Mobile">
+              <figcaption>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, magnam?</figcaption>
+            </figure>
+          </article>
+          <article>
+            <h2>TECNOLOGIA</h2>
+            <figure>
+              <img src="./img/tecnologia.jpg" alt="Imagem relacionada a Tecnologia">
+              <figcaption>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius, odio!</figcaption>
+            </figure>
+          </article>
+        </section>
+      </main>
+    <footer>
+        <h2>
+            <nav>
+                <a href=""><img src="./img/GitHub-Mark.png" alt="GitHub">GitHub</a>
+                <a href=""><img src="./img/twitter.jpg" alt="Twitter">Twitter</a>
+                <a href=""><img src="./img/facebook.webp" alt="Facebook">Facebook</a>
+            </nav>
+            
+        </h2>
+    </footer>
+</body>
+</html> 
+Pagina de games:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="../img/cabecalhogames.jpg" alt="foto de uma mão segurando um jogo com vários controles e outros jogos em sua volta">
+        <nav class="menu">
+            <ul>
+                <li><a href="/index.html">Página Principal</a></li>
+                <li><a href="./games.html">Games</a></li>
+                <li><a href="./mobile.html">Mobile</a></li>
+                <li><a href="./tecnologia.html">Tecnologia</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="conteudo">
+        <h2>Games</h2>
+        <p> Games é um termo para designar jogos que as pessoas jogam por diversos motivos. Aquele que joga pode ser conhecido como jogador, ou mais usualmente, como um gamer. Para poder jogar o game, a pessoa pode utilizar alguns aparelhos, tais como: console, monitor, controle, teclados, entre outros. Para ver o jogo em si, o gamer pode utilizar um celular, um computador, uma tv, entre outros.</p>
+        <figure>
+            <img src="../img/conteudogames.jpg" alt="foto de um controle remoto branco e um teclado com luz de led">
+        </figure>
+
+    <footer class="rodapé">
+        <h2>Veja nossas redes sociais:</h2>
+        <nav>
+            <a href="https://github.com/" target="_blank"><img src="../img/GitHub-Mark.png" alt="github">></a>
+            <a href="https://pt-br.facebook.com/" target="_blank"><img src="../img/facebook.webp" alt="facebook"></a>
+            <a href="https://twitter.com/" target="_blank"><img src="../img/twitter.jpg" alt="twitter"></a>
+        </nav>
+    </footer>
+</body>
+</html>
+Pagina do mobile:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile</title>
+</head>
+<body>
+
+    <header>
+        <div class="">
+            <img src="" alt="Logo do Meu Site">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/index.html">Principal</a></li>
+                <li><a href="./games.html">Games</a></li>
+                <li><a href="./mobile.html">Mobile</a></li>
+                <li><a href="./tecnologia.html">Tecnologia</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>GAMES</h2>
+        <p>Texto introdutório sobre games.</p>
+        <figure>
+            <img src="imagem1.jpg" alt="Imagem de um jogo">
+            <figcaption>Legenda da imagem</figcaption>
+        </figure>
+    </section>
+
+    <section>
+        <h2>MOBILE</h2>
+        <p>Texto introdutório sobre mobile.</p>
+        <figure>
+            <img src="imagem2.jpg" alt="Imagem de um smartphone">
+            <figcaption>Legenda da imagem</figcaption>
+        </figure>
+    </section>
+
+    <section>
+        <h2>TECNOLOGIA</h2>
+        <p>Texto introdutório sobre tecnologia.</p>
+        <figure>
+            <img src="imagem3.jpg" alt="Imagem de um computador">
+            <figcaption>Legenda da imagem</figcaption>
+        </figure>
+    </section>
+
+<footer>
+    <h2>Redes Sociais</h2>
+    <nav>
+        <a href="#"><img src="github.png" alt="GitHub"></a>
+        <a href="#"><img src="facebook.png" alt="Facebook"></a>
+        <a href="#"><img src="twitter.png" alt="Twitter"></a>
+    </nav>
+Pagina da tecnologia:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tecnologia</title>
+    <link rel="stylesheet" href="./css/principal.css">
+
+</head>
+<body>
+    <header>
+        
+        <ul>
+            <li><a href="./index.html">Principal</a></li>
+            <li><a href="./pages/games.html">Games</a></li>
+            <li><a href="./pages/mobile.html">Mobile</a></li>
+           
+          </ul>
+          
+        
+        <img src="logo.png" width="300px"><br>
+        
+
+
+        <h2> Texto introdutorio </h2>
+        <p1>A Tecnologia é um produto da ciência e da engenharia que envolve um conjunto de instrumentos, métodos e técnicas que visam a resolução de problemas. É uma aplicação prática do conhecimento científico em diversas áreas de pesquisa. A tecnologia se tornou algo essencial na vida dos seres humanos pertencentes ao século XXI, ela tomou seu poder atual com enorme rapidez e foi conquistando espaços inimagináveis ao longo das décadas. </p1> <br> <br>
+        
+        
+        
+
+        <a href="https://github.com">
+            <img src="github.png">
+        </a>
+
+            <a href="https://www.facebook.com"><br><h2></h2>
+            <img src="facebook.png">
+        </a>
+
+            <a href="https://Twitter.com"><br><h2></h2>
+            <img src="twiterr.png" width="240px"> 
+        </a>
+
+        </body>
+</html>
+Pagina do css:
+
+
+
+<<<<<<< HEAD
+Gustavo Arguello Bertacci - rm551304
+=======
 Gustavo Arguello Bertacci - rm551304
 
 
 
+>>>>>>> f8c9eb65415fd2d06f7418b1af88af5fc9ff9110
