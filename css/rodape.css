@@ -1,0 +1,35 @@
+.rodape{
+    display: flex;
+    margin-top: 9px;
+    justify-content: center;
+    background-color: #f4b036;
+    height: 50px;
+    align-items: center;
+}
+.rodape nav{
+    background-color:#f4b036;
+    justify-self: center;
+   
+    
+    
+}
+.rodape a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    align-self: center;
+    
+}
+
+.rodape h2{
+    font-size: 2em;
+    margin-top: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #f17144;
+}
+.rodape img{
+    
+    max-width: 4%;
+}
