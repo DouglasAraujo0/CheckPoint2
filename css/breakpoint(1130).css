@@ -1,0 +1,18 @@
+
+@media(max-width:1130px){
+
+    .conteudo figcaption{
+        font-size: 1.1em;
+    }
+    .cabecalho nav{
+        margin-left: 2%;
+    }
+    .cabecalho a{
+        padding: 1.3vh;
+    }
+    .cabecalho img{
+        max-width: 250px;
+    }
+}
+
+    
