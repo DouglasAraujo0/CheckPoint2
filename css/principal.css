@@ -1,10 +1,14 @@
 @import url("./cabecalho.css");
 @import url("./conteudo.css");
+@import url("./rodape.css");
+@import url("./breakpoint(1130).css");
+@import url("./breakpoint(870).css");
+@import url("./breakpoint(690).css");
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(255, 255, 255);
+    background-color:#f4b036;
 }

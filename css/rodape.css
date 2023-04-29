@@ -1,14 +1,14 @@
 .rodape{
-    display: flex;
+    display: block;
     margin-top: 9px;
     justify-content: center;
     background-color: #f4b036;
     height: 50px;
-    align-items: center;
+    align-items: flex-end;
 }
 .rodape nav{
     background-color:#f4b036;
-    justify-self: center;
+    justify-items: center;
    
     
     
@@ -19,6 +19,9 @@
     font-family: 'Times New Roman', Times, serif;
     margin: 10px;
     align-self: center;
+    font-size: 2.2em;
+    margin-left: 21%;
+    margin-right: auto;
     
 }
 
@@ -31,5 +34,5 @@
 }
 .rodape img{
     
-    max-width: 4%;
+    width: 5%;
 }
