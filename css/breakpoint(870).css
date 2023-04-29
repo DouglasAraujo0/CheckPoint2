@@ -1,0 +1,13 @@
+@media(max-width:870px){
+    .conteudo figcaption{
+        font-size: 1em;
+    }
+    .conteudo img{
+        width: 30%;
+    }
+    .cabecalho img{
+        width: 50%;
+    }
+
+
+}
