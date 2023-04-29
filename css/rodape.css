@@ -1,0 +1,38 @@
+.rodape{
+    display: block;
+    margin-top: 9px;
+    justify-content: center;
+    background-color: #f4b036;
+    height: 50px;
+    align-items: flex-end;
+}
+.rodape nav{
+    background-color:#f4b036;
+    justify-items: center;
+   
+    
+    
+}
+.rodape a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    align-self: center;
+    font-size: 2.2em;
+    margin-left: 21%;
+    margin-right: auto;
+    
+}
+
+.rodape h2{
+    font-size: 2em;
+    margin-top: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #f17144;
+}
+.rodape img{
+    
+    width: 5%;
+}
